@@ -1,0 +1,24 @@
+{
+  "name": "08-logomaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleahwhite/08-logomaker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleahwhite/08-logomaker/issues"
+  },
+  "homepage": "https://github.com/aleahwhite/08-logomaker#readme",
+  "dependencies": {
+    "inquirer": "^9.2.12",
+    "svg.js": "^2.7.1"
+  }
+}
